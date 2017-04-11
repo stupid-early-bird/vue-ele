@@ -1,0 +1,92 @@
+[
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "酸菜鱼",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "酸菜鱼"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "饺子",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "饺子"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "皇茶",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "皇茶"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "鲜芋仙",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "鲜芋仙"
+    },
+    {
+        "is_highlight": 0,
+        "link": "eleme://restaurant?restaurant_id=462790&target_food_id=0",
+        "search_word": "必胜客",
+        "source": "3",
+        "type": 2,
+        "url": "",
+        "word": "必胜客"
+    },
+    {
+        "is_highlight": 0,
+        "link": "eleme://web?url=https%3A//zaocan.ele.me%3Ffrom%3Dssc04010yuancan&target_name=&animation_type=1&banner_type=0",
+        "search_word": "",
+        "source": "4",
+        "type": 3,
+        "url": "",
+        "word": "0元早餐"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "奶茶",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "奶茶"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "快餐",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "快餐"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "便当",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "便当"
+    },
+    {
+        "is_highlight": 0,
+        "link": "eleme://restaurant?restaurant_id=660944&target_food_id=0",
+        "search_word": "大卡司",
+        "source": "3",
+        "type": 2,
+        "url": "",
+        "word": "大卡司"
+    }
+]
