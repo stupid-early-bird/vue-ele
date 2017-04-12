@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="header">
+  <div class="msite_wrapper">
     <div class="map">
       <div class="location">
         <span class="icon-map"></span>
@@ -39,7 +39,7 @@
   <div class="sellers_wrapper">
     <div class="sellers_header">推荐商家</div>
     <div class="sellers_content">
-      <div class="sellers_item" v-for="item in restaurants">
+      <a class="sellers_item" v-for="item in restaurants" href="/#/shop">
         <div class="avater">
           <img :src="getImgPath(item.image_path)" alt="">
         </div>
@@ -74,7 +74,7 @@
             </section>
           </div>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </div>
@@ -83,10 +83,10 @@
 <script>
 // import msiteFoodTypes from '../service/getData'
 require('vue-swipe/dist/vue-swipe.css')
-import {imgBaseUrl} from '../config/env'
+import {imgBaseUrl} from '../../config/env'
 import { Swipe, SwipeItem } from 'vue-swipe'
-import { getImgPath } from '../common/js/util'
-import star from './common/star/star'
+import { getImgPath } from '../../common/js/util'
+import star from '../common/star/star'
 export default {
   data () {
     return {
@@ -123,8 +123,8 @@ export default {
 </script>
 
 <style lang="less">
-@import "../common/less/z.less";
-.header{
+@import "../../common/less/z.less";
+.msite_wrapper{
   padding:10px 14px;
   background-color: #0096ff;
   .map{
