@@ -19,6 +19,7 @@ export default {
 .routerfade-enter-active,.routerfade-leave-active{
 	transition:all .3s;
 }
+
 .routerfade-enter,.routerfade-leave-active{
 	opacity: 0;
 }
